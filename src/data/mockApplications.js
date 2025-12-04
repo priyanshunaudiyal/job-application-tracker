@@ -1,0 +1,38 @@
+export const mockApplications = [
+  {
+    id: 1,
+    company: "Lawise.ai",
+    role: "Frontend Developer",
+    status: "Interviewing",
+    appliedOn: "2024-11-20",
+    location: "Remote",
+    notes: "Tech round completed, awaiting feedback.",
+  },
+  {
+    id: 2,
+    company: "Razorpay",
+    role: "React Engineer",
+    status: "Applied",
+    appliedOn: "2024-11-25",
+    location: "Bangalore",
+    notes: "Referred by ex-colleague.",
+  },
+  {
+    id: 3,
+    company: "Swiggy",
+    role: "Frontend Engineer",
+    status: "Rejected",
+    appliedOn: "2024-10-15",
+    location: "Bangalore",
+    notes: "Did not clear assignment.",
+  },
+  {
+    id: 4,
+    company: "Meesho",
+    role: "SDE 1 - Frontend",
+    status: "Offer",
+    appliedOn: "2024-11-10",
+    location: "Bangalore",
+    notes: "Offer valid till 2024-12-10.",
+  },
+];
